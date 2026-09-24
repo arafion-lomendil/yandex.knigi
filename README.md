@@ -204,7 +204,7 @@ BitMotion Kit продаёт геймифицированные товары д�
 
 1. Клонировать репозиторий:
 ```bash
-   git clone https://github.com/arafion-lomendil/yandex.knigi/
+   git clone https://github.com/arafion-lomendil/yandex_knigi/
 ```
 2. Установить зависимости:
 ```bash
